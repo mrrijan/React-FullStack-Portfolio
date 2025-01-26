@@ -1,5 +1,5 @@
 import styles from "./HeroStyles.module.css";
-import HeroImg from "../../assets/rijan.jpeg";
+import HeroImg from "../../assets/rijan-college.jpg";
 import sun from "../../assets/sun.svg";
 import moon from "../../assets/moon.svg";
 import githubLight from "../../assets/github-light.svg";
