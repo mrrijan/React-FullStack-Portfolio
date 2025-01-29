@@ -9,7 +9,7 @@
 
     .hero{
         width: 210px;
-        height: 190px;
+        height: 210px;
         border-radius: 50%;
     }
     span{
@@ -81,7 +81,7 @@
 
         .hero{
             width: 250px;
-            height: 230px;
+            height: 250px;
         }
     }
 }
@@ -90,8 +90,8 @@
     .container{
 
         .hero{
-            width: 320px;
-            height: 300px;
+            width: 350px;
+            height: 350px;
         }
     }
 }
