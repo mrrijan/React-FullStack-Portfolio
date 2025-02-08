@@ -10,6 +10,7 @@
     .hero{
         width: 210px;
         height: 210px;
+        object-fit: cover; /* Ensures the image maintains proportion without stretching */
         border-radius: 50%;
     }
     span{
@@ -81,6 +82,8 @@
 
         .hero{
             width: 250px;
+            object-fit: cover;
+            border-radius: 50%;
             height: 250px;
         }
     }
@@ -92,6 +95,8 @@
         .hero{
             width: 350px;
             height: 350px;
+            object-fit: cover; /* Ensures the image maintains proportion without stretching */
+            border-radius: 50%;
         }
     }
 }
